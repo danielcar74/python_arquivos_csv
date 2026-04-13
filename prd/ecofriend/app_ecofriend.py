@@ -7,6 +7,8 @@ st.set_page_config(page_title="EcoDescarte SP - Assistente Virtual", page_icon="
 st.title("♻️ EcoDescarte SP")
 st.subheader("Sua dúvida sobre como descartar lixo complexo, respondida por IA.")
 
+
+
 # --- CONFIGURAÇÃO DA IA (GROQ) ---
 # Em produção, use st.secrets para esconder a chave!
 api_key = st.secrets["GROQ_API_KEY"] # Configurar no dashboard do Streamlit Cloud

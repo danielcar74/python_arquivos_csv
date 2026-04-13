@@ -1,0 +1,7 @@
+# Ignorar chaves de segurança
+.streamlit/secrets.toml
+.env
+
+# Ignorar lixo do Python
+__pycache__/
+*.pyc

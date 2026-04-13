@@ -1,0 +1,12 @@
+[
+  {
+    "material": "pneu",
+    "instrucao": "Não descarte em lixo comum ou queime. Leve a um Ecoponto da Prefeitura ou devolva em uma loja de pneus (Logística Reversa).",
+    "local_exemplo": "Ecoponto Vila Mariana"
+  },
+  {
+    "material": "colchão",
+    "instrucao": "Colchões velhos devem ser levados aos Ecopontos. Eles aceitam até 1m³ de entulho e móveis por dia.",
+    "local_exemplo": "Ecoponto Sé"
+  }
+]

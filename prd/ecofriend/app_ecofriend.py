@@ -2,6 +2,7 @@ import streamlit as st
 import json
 from groq import Groq
 
+
 # Configuração da página Streamlit
 st.set_page_config(page_title="EcoDescarte SP - Assistente Virtual", page_icon="♻️")
 st.title("♻️ EcoDescarte SP")
